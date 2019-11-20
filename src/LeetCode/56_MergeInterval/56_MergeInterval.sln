@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56_MergeInterval", "56_MergeInterval\56_MergeInterval.csproj", "{328730E8-6345-40CC-A5AF-CEBD633EA05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{328730E8-6345-40CC-A5AF-CEBD633EA05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328730E8-6345-40CC-A5AF-CEBD633EA05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328730E8-6345-40CC-A5AF-CEBD633EA05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328730E8-6345-40CC-A5AF-CEBD633EA05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77CF6C34-4FEF-4B84-AD0B-EB0BF378F109}
+	EndGlobalSection
+EndGlobal

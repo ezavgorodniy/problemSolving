@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_Reverse_nodes_K_group", "25_Reverse_nodes_K_group\25_Reverse_nodes_K_group.csproj", "{46F301FC-78E2-4073-A3AB-A7D98AD14204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F301FC-78E2-4073-A3AB-A7D98AD14204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F301FC-78E2-4073-A3AB-A7D98AD14204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F301FC-78E2-4073-A3AB-A7D98AD14204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F301FC-78E2-4073-A3AB-A7D98AD14204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F6E20B-10CA-40B6-A06C-AFB0BFE217C6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "295_MedianFromDataStream", "295_MedianFromDataStream\295_MedianFromDataStream.csproj", "{CC379B2E-3081-4E8D-9B49-5F27AD7CCE68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC379B2E-3081-4E8D-9B49-5F27AD7CCE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC379B2E-3081-4E8D-9B49-5F27AD7CCE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC379B2E-3081-4E8D-9B49-5F27AD7CCE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC379B2E-3081-4E8D-9B49-5F27AD7CCE68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12DEF27A-91CD-4B5D-A6B1-D0EC9D67BD56}
+	EndGlobalSection
+EndGlobal

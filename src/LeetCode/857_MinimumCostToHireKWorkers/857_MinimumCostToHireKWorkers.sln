@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "857_MinimumCostToHireKWorkers", "857_MinimumCostToHireKWorkers\857_MinimumCostToHireKWorkers.csproj", "{C6BB1A2E-B43C-4E0F-A236-C274CA1DDADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6BB1A2E-B43C-4E0F-A236-C274CA1DDADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BB1A2E-B43C-4E0F-A236-C274CA1DDADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BB1A2E-B43C-4E0F-A236-C274CA1DDADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BB1A2E-B43C-4E0F-A236-C274CA1DDADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6D3372-4A61-4990-B3E5-3B35497DD115}
+	EndGlobalSection
+EndGlobal

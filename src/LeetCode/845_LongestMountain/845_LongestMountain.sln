@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "845_LongestMountain", "845_LongestMountain\845_LongestMountain.csproj", "{FD32EC69-B0E7-4AAD-83FC-A21E91B9D605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD32EC69-B0E7-4AAD-83FC-A21E91B9D605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD32EC69-B0E7-4AAD-83FC-A21E91B9D605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD32EC69-B0E7-4AAD-83FC-A21E91B9D605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD32EC69-B0E7-4AAD-83FC-A21E91B9D605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ECA1D89-64C5-479C-BE9A-91A30E98CA7B}
+	EndGlobalSection
+EndGlobal
