@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}</ProjectGuid>
+    <ProjectGuid>{8193FAB8-1EFE-4CD8-AA2B-879E2020336D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_862_ShortestSubArray</RootNamespace>
-    <AssemblyName>862_ShortestSubArray</AssemblyName>
+    <RootNamespace>_498_DiagonalTraverse</RootNamespace>
+    <AssemblyName>498_DiagonalTraverse</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

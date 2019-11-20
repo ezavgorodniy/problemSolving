@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "862_ShortestSubArray", "862_ShortestSubArray\862_ShortestSubArray.csproj", "{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckMap", "CheckMap\CheckMap.csproj", "{5CDD0547-6123-4363-AAE1-96BFE8CA97A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDD0547-6123-4363-AAE1-96BFE8CA97A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDD0547-6123-4363-AAE1-96BFE8CA97A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDD0547-6123-4363-AAE1-96BFE8CA97A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDD0547-6123-4363-AAE1-96BFE8CA97A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EA6AF860-7645-4BD4-8F38-B77860E5CD32}
+		SolutionGuid = {5E5877CE-7F1C-4BAB-8FB9-EE26DA4B4463}
 	EndGlobalSection
 EndGlobal

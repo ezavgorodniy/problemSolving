@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "862_ShortestSubArray", "862_ShortestSubArray\862_ShortestSubArray.csproj", "{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalSort", "TopologicalSort\TopologicalSort.csproj", "{759A09DC-7B05-4A8D-A3DE-FB9B34C189F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759A09DC-7B05-4A8D-A3DE-FB9B34C189F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759A09DC-7B05-4A8D-A3DE-FB9B34C189F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759A09DC-7B05-4A8D-A3DE-FB9B34C189F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759A09DC-7B05-4A8D-A3DE-FB9B34C189F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EA6AF860-7645-4BD4-8F38-B77860E5CD32}
+		SolutionGuid = {52705AFD-DC03-4FB3-AFD3-43717A1682E1}
 	EndGlobalSection
 EndGlobal

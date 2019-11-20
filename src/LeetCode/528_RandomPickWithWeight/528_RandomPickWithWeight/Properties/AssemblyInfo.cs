@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("862_ShortestSubArray")]
+[assembly: AssemblyTitle("528_RandomPickWithWeight")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Ivanti")]
-[assembly: AssemblyProduct("862_ShortestSubArray")]
+[assembly: AssemblyProduct("528_RandomPickWithWeight")]
 [assembly: AssemblyCopyright("Copyright © Ivanti 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2fdeaa04-d291-4408-87a6-36bdbad5aefd")]
+[assembly: Guid("623f3fe4-7958-45fa-9bd9-e5881c6cca1d")]
 
 // Version information for an assembly consists of the following four values:
 //

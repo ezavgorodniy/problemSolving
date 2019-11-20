@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}</ProjectGuid>
+    <ProjectGuid>{623F3FE4-7958-45FA-9BD9-E5881C6CCA1D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_862_ShortestSubArray</RootNamespace>
-    <AssemblyName>862_ShortestSubArray</AssemblyName>
+    <RootNamespace>_528_RandomPickWithWeight</RootNamespace>
+    <AssemblyName>528_RandomPickWithWeight</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}</ProjectGuid>
+    <ProjectGuid>{327F2CB1-9519-4A97-8261-EF893D709F87}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_862_ShortestSubArray</RootNamespace>
-    <AssemblyName>862_ShortestSubArray</AssemblyName>
+    <RootNamespace>AccountsMerge</RootNamespace>
+    <AssemblyName>AccountsMerge</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

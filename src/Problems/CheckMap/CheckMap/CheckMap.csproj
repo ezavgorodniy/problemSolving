@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2FDEAA04-D291-4408-87A6-36BDBAD5AEFD}</ProjectGuid>
+    <ProjectGuid>{5CDD0547-6123-4363-AAE1-96BFE8CA97A8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_862_ShortestSubArray</RootNamespace>
-    <AssemblyName>862_ShortestSubArray</AssemblyName>
+    <RootNamespace>CheckMap</RootNamespace>
+    <AssemblyName>CheckMap</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
